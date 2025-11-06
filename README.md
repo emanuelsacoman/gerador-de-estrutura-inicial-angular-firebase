@@ -57,7 +57,7 @@ Agora vamos automatizar a criação da estrutura de pastas padrão para o seu pr
 
 ### 1️⃣ Crie o arquivo setup-structure.js
 
-Dentro da pasta src, crie o arquivo:
+Dentro da raíz do projeto, crie o arquivo:
 ``setup-structure.js``
 
 <img width="300" height="363" alt="image" src="https://github.com/user-attachments/assets/28159aa4-dfd0-4da9-8350-b04609668fb5" />
