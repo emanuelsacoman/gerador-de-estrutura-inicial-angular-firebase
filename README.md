@@ -97,6 +97,7 @@ Agora você tem um projeto organizado, escalável e pronto para desenvolvimento.
 | 🔥 **Firebase**      | Instala `firebase` e `@angular/fire` automaticamente se não existirem |
 | 🧩 **app.config.ts** | Configura a integração inicial com o Firebase                         |
 | 🚀 **firebase.json** | Cria ou atualiza o arquivo de deploy do Firebase Hosting              |
+| 💾 **environment** | Cria ou atualiza os arquivos env com a estrutura base para afirmação de keys             |
 
 
 <div align="center">
